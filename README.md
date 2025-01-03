@@ -1,16 +1,20 @@
+Certainly! Below is an updated version of your README file with the live link included:
+
+---
+
 ## Resume Builder | React
 
 ### About
 
-Resume-Builder is single page web application created in React Library.
+Resume-Builder is a single-page web application created using the React Library. It allows users to build and download a personalized resume. The app offers different versions of resume export functionalities.
 
-### Resume 1.0 (using jspdf)
+### Resume 1.0 (using `jspdf`)
 
-<img src="https://github.com/Yagnik-Gohil/Resume-Builder/blob/master/public/images/1.0.JPG?raw=true" width="250"/>
+![Resume 1.0](https://github.com/Yagnik-Gohil/Resume-Builder/blob/master/public/images/1.0.JPG?raw=true)
 
-### Resume 2.0 (using html-pdf)
+### Resume 2.0 (using `html-pdf`)
 
-<img src="https://github.com/Yagnik-Gohil/Resume-Builder/blob/master/public/images/2.0.JPG?raw=true" width="250"/>
+![Resume 2.0](https://github.com/Yagnik-Gohil/Resume-Builder/blob/master/public/images/2.0.JPG?raw=true)
 
 ### Technologies
 
@@ -19,18 +23,41 @@ Resume-Builder is single page web application created in React Library.
 - [React-Redux](https://react-redux.js.org/)
 
 ### Icons
+
 - [React-Icons](https://react-icons.github.io/react-icons)
 
-Feel free to use the source to create your resume.<br/>
-<link>https://resume-craft-delta.vercel.app/</link>
-Basic knowledge of HTML5, CSS and React is sufficient if you want to customize the resume for your requirements.
+Feel free to use the source to create your own resume.  
+You need only basic knowledge of HTML5, CSS, and React to customize the resume for your needs.
 
-### How to use
+### Live Demo
 
-Clone this repository
+You can try the live version of the app here:  
+[Resume Builder Live](https://resume-craft-delta.vercel.app)
 
-Run `npm install` in `/resume-builder` and in `/resume-builder/backend` to install dependency.
+### How to Use
 
-Run `npm start` in `/resume-builder` and in `/resume-builder/backend` to run your local copy in browser.
+1. **Clone this repository:**
 
-![](https://visitor-badge.glitch.me/badge?page_id=Yagnik-Gohil.Resume-Builder)
+```bash
+git clone https://github.com/Yagnik-Gohil/Resume-Builder.git
+```
+
+2. **Install dependencies:**
+
+Run the following command in both the `/resume-builder` and `/resume-builder/backend` directories to install required dependencies.
+
+```bash
+npm install
+```
+
+3. **Run the application locally:**
+
+```bash
+npm start
+```
+
+After running the above commands, your local copy of the Resume Builder will be available in your browser.
+
+---
+
+Let me know if you need further modifications or additions!
